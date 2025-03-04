@@ -48,11 +48,11 @@ h2 {
 }
 
 .circle {
-    /* border: 80px, solid; */
     width: 70px;
     height: 70px;
     border-radius: 50%;
     background-color: black;
+    margin: auto;
 }
 
 .centerdiv {
